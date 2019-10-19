@@ -8867,6 +8867,7 @@ input[type=range]::-ms-thumb {
 /* Timepicker Containers */
 .timepicker-modal {
   max-width: 325px;
+  min-width: 290px;
   max-height: none;
 }
 
